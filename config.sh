@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/TheXPerienceProject/android_device_xiaomi_lisa.git -b xpe-17.0-caf"
+export DT_LINK="https://github.com/TheXPerienceProject/android_device_xiaomi_lisa.git"
 
 export DEVICE="lisa"
 export OEM="xiaomi"
